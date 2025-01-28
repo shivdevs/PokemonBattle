@@ -1,5 +1,5 @@
-// Harshiv Mistry, 11-12-2024, CS302 Fall 2024, Program #3
-// FileName: data_structures.h
+// Author: Harshiv Mistry
+// Date: 10-29-2024
 //
 // This file contains the class declerations that manage the data structures for this project -- Node class, & BST class.
 
@@ -19,7 +19,7 @@
  * 
  */
 
-#include "harshiv_mistry_pokemon.h"
+#include "pokemon.h"
 
 /* This class represents the node used for the BST in 
  * in this project. 

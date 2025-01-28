@@ -1,9 +1,9 @@
-// Harshiv Mistry, 11-12-2024, CS302 Fall 2024, Program #3
-// FileName: client.h
+// Author: Harshiv Mistry
+// Date: 10-29-2024
 //
 // This file acts as the client for this project. 
 
-#include "harshiv_mistry_battle.h"
+#include "battle.h"
 
 int main()
 {

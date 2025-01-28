@@ -1,5 +1,5 @@
-// Harshiv Mistry, 11-12-2024, CS302 Fall 2024, Program #3
-// FileName: battle.cpp
+// Author: Harshiv Mistry
+// Date: 10-29-2024
 //
 // This file contains the implementation of Trainer class and Game class. 
 
@@ -19,7 +19,7 @@
  * - Dynamic interaction between trainers and their Pokemon teams.
  */
 
-#include "harshiv_mistry_battle.h"
+#include "battle.h"
 
 /****** TRAINER CLASS IMPLEMENTATION *****/
 // Default constructor initializes the trainer's name.

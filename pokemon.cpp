@@ -1,5 +1,5 @@
-// Harshiv Mistry, 11-12-2024, CS302 Fall 2024, Program #3
-// FileName: pokemon.cpp
+// Author: Harshiv Mistry
+// Date: 10-29-2024
 //
 // This file contains the implementation of the core hierarchy used in this project -- Pokemon; Fire; Water; Grass
 
@@ -39,7 +39,7 @@
  *    - Overrides base class functions for Grass-type behavior.
  *
  **********************************************************/
-#include "harshiv_mistry_pokemon.h"
+#include "pokemon.h"
 
 /* Overview Here */
 

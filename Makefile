@@ -6,7 +6,7 @@ CXXFLAGS = -std=c++17 -Wall -g
 TARGET = pokemon_battle
 
 # Source Files
-SOURCES = harshiv_mistry_client.cpp harshiv_mistry_pokemon.cpp harshiv_mistry_tree.cpp harshiv_mistry_battle.cpp
+SOURCES = client.cpp pokemon.cpp tree.cpp battle.cpp
 
 # Default Target
 all: $(TARGET)

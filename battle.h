@@ -1,5 +1,5 @@
-// Harshiv Mistry, 11-12-2024, CS302 Fall 2024, Program #3
-// FileName: battle.h
+// Author: Harshiv Mistry
+// Date: 10-29-2024
 //
 // This file contains the class declarations for the Trainer class and Stadium class. 
 
@@ -21,7 +21,7 @@
  * 
  */
 
-#include "harshiv_mistry_data_structures.h"
+#include "data_structures.h"
 
 /* This class is represent a individual trainer, which can have 
  * multiple pokemons -- stored using a 2-3 tree. trainer also 

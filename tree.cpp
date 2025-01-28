@@ -1,5 +1,5 @@
-// Harshiv Mistry, 11-12-2024, CS302 Fall 2024, Program #3
-// FileName: tree.cpp
+// Author: Harshiv Mistry
+// Date: 10-29-2024
 //
 // This file contains the implementation for the node class and tree_23 class.
 
@@ -21,7 +21,7 @@
  * - Integration with the Pokemon class hierarchy for battle simulation.
  */
 
-#include "harshiv_mistry_data_structures.h"
+#include "data_structures.h"
 
 //default constructor
 Node::Node(): data{nullptr}, left{nullptr}, right{nullptr}
